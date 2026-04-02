@@ -1,0 +1,17 @@
+__pycache__/
+*.pyc
+*.pyo
+
+venv/
+.env/
+env/
+
+.vscode/
+
+logs/
+*.log
+
+gradebook\data\gradebook.json
+
+.DS_Store
+Thumbs.db

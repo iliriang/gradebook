@@ -1,0 +1,78 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Ilirian Gerxhaliu"
+    },
+    {
+      "id": 2,
+      "name": "Ardit Tahiri"
+    },
+    {
+      "id": 3,
+      "name": "Elsa Hoxha"
+    },
+    {
+      "id": 5,
+      "name": "Ilirian"
+    }
+  ],
+  "courses": [
+    {
+      "code": "CS101",
+      "title": "Intro to CS"
+    },
+    {
+      "code": "MATH201",
+      "title": "Discrete Math"
+    },
+    {
+      "code": "RDM154141",
+      "title": "README Smoke Course"
+    },
+    {
+      "code": "CS1",
+      "title": "Intro to CS"
+    }
+  ],
+  "enrollments": [
+    {
+      "student_id": 1,
+      "course_code": "CS101",
+      "grades": [
+        93.0,
+        88.0
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "MATH201",
+      "grades": [
+        91.0
+      ]
+    },
+    {
+      "student_id": 2,
+      "course_code": "CS101",
+      "grades": [
+        79.0
+      ]
+    },
+    {
+      "student_id": 3,
+      "course_code": "MATH201",
+      "grades": [
+        85.0,
+        90.0
+      ]
+    },
+    {
+      "student_id": 1,
+      "course_code": "CS1",
+      "grades": [
+        95.0
+      ]
+    }
+  ],
+  "next_student_id": 6
+}
